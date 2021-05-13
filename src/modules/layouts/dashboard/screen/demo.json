@@ -1,0 +1,201 @@
+{
+    "nearby": {
+        "lat": 42.30905,
+        "lng": -82.80864,
+        "city": "Pike Creek",
+        "reqid": 11047,
+        "address": "586 Old Tecumseh Road, Belle River ON N0R 1A0",
+        "amenities": {
+            "market": [
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDY5OTk0NzWhY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.31764,
+                    "lng": -82.84388,
+                    "city": "Tecumseh",
+                    "name": "Walmart",
+                    "phone": "",
+                    "rating": 2.5715324879,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 3051
+                    },
+                    "location": "South Wind Crescent, Tecumseh ON N8N",
+                    "description": "",
+                    "rating_source": ""
+                },
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDY0MDI0MzWhY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.31126,
+                    "lng": -82.89789,
+                    "city": "Windsor",
+                    "name": "Metro",
+                    "phone": "",
+                    "rating": 2.5574643612,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 7343
+                    },
+                    "location": "11729 Tecumseh Road East, Windsor ON N8N 1L8",
+                    "description": "",
+                    "rating_source": "Foursquare"
+                }
+            ],
+            "hospital": [
+                {
+                    "id": "g6JpZK84NDAyNjkwMDA2MDA2MjKhY6NVU0GhdqdVbmlmaWVk",
+                    "lat": 42.38426,
+                    "lng": -82.91495,
+                    "city": "Grosse Pointe",
+                    "name": "Beaumont Hospital Grosse Pointe Campus",
+                    "phone": "",
+                    "rating": 5.0596041679,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 12094
+                    },
+                    "location": "468 Cadieux Road, Grosse Pointe, MI 48230",
+                    "description": "",
+                    "rating_source": "Foursquare"
+                }
+            ],
+            "kids area": [
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDQ3NTc4NDKhY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.29043,
+                    "lng": -82.7727,
+                    "city": "Belle River",
+                    "name": "Ontario Early Years Centre",
+                    "phone": "",
+                    "rating": 2.424851656,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 1108
+                    },
+                    "location": "376 I C Roy Drive, Belle River ON N0R 1A0",
+                    "description": "",
+                    "rating_source": ""
+                }
+            ],
+            "train stop": "No Response",
+            "transit stop": [
+                {
+                    "id": "g6JpZK84NDAyNjkwMDE1MjkwMTehY6NVU0GhdqdVbmlmaWVk",
+                    "lat": 42.36411,
+                    "lng": -82.93594,
+                    "city": "Detroit",
+                    "name": "Korte & Phillip",
+                    "phone": "",
+                    "rating": 2.38641572,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 12123
+                    },
+                    "location": "Philip Street, Detroit, MI 48215",
+                    "description": "",
+                    "rating_source": ""
+                }
+            ],
+            "middle school": [
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDQwOTU5MDShY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.30303,
+                    "lng": -82.88419,
+                    "city": "Tecumseh",
+                    "name": "Js Stellar",
+                    "phone": "",
+                    "rating": 2.5621023178,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 6248
+                    },
+                    "location": "1731 L'Espérance Road, Tecumseh ON N8N 1Y2",
+                    "description": "",
+                    "rating_source": ""
+                }
+            ],
+            "primary school": [
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDY1ODQ2NDahY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.32048,
+                    "lng": -82.87449,
+                    "city": "Tecumseh",
+                    "name": "École Ste-Marguerite-d'Youville",
+                    "phone": "",
+                    "rating": 2.5646550655,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 5561
+                    },
+                    "location": "13035 Saint Thomas Street, Tecumseh ON N8N 3P3",
+                    "description": "",
+                    "rating_source": ""
+                }
+            ],
+            "community center": [
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDQ2MjgyMDehY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.31119,
+                    "lng": -82.88247,
+                    "city": "Tecumseh",
+                    "name": "Tecumseh Golden Age Club",
+                    "phone": "",
+                    "rating": 5.1255435944,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 6075
+                    },
+                    "location": "12420 Lanoue Street, Tecumseh ON N8N 3A5",
+                    "description": "",
+                    "rating_source": ""
+                }
+            ],
+            "secondary school": [
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDY1ODI1ODGhY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.28929,
+                    "lng": -82.7659,
+                    "city": "Belle River",
+                    "name": "Ste. Anne Catholic High School",
+                    "phone": "",
+                    "rating": 2.5690145493,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 4145
+                    },
+                    "location": "1200 Oakwood Avenue, Belle River ON N0R 1A0",
+                    "description": "",
+                    "rating_source": ""
+                }
+            ],
+            "catholic primary school": [
+                {
+                    "id": "g6JpZK8xMjQzNTkwMDY1ODI1ODGhY6NDQU6hdqdVbmlmaWVk",
+                    "lat": 42.28929,
+                    "lng": -82.7659,
+                    "city": "Belle River",
+                    "name": "Ste. Anne Catholic High School",
+                    "phone": "",
+                    "rating": 2.4235987663,
+                    "travel": {
+                        "mode": "",
+                        "time": 0,
+                        "distance": 4145
+                    },
+                    "location": "1200 Oakwood Avenue, Belle River ON N0R 1A0",
+                    "description": "",
+                    "rating_source": ""
+                }
+            ],
+            "catholic secondary school": "No Response"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+.nav-main-home {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(87deg, #11cdef, #1171ef);
+  color: #fff;
+  z-index: 9999;
+}
+
+
+.nav-main {
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(87deg, #11cdef, #1171ef);
+  color: #fff;
+  
+}
+
+.search-input {
+  width: 250px;
+}
+
+.search-label {
+  font-size: 15px;
+  font-style: italic;
+}
+
+@media only screen and (max-width: 768px) {
+  .nav-main {
+    padding: 10px 20px;
+  }
+}
+
+.nav-menu-logo {
+  transition: 1s all;
+  cursor: pointer;
+  transform: translate(0%, 0%);
+  z-index: 9999;
+}
+
+.nav-menu-logo-active {
+  transform: translate(250px, 0%);
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.logo span {
+  font-weight: 400;
+}
+
+.nav-search-bar {
+  display: flex;
+  align-items: center;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+.nav-search-bar input {
+  outline: none;
+  border: none;
+  background: none;
+  padding-right: 15px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.nav-profile-img {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+  font-weight: 600;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.nav-search-bar input::placeholder {
+  color: #fff;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+.nav-search-bar input:-ms-input-placeholder {
+  color: #fff;
+  opacity: 0.8;
+}
+
+.nav-search-bar input::-ms-input-placeholder {
+  color: #fff;
+  opacity: 0.8;
+}
+
+.nav-search-bar span {
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;  
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: #1171ef;
+}
+
+.form_input input {
+  outline: none;
+  border: 1px solid rgb(225, 225, 225);
+  padding: 12px 12px;
+  font-size: 15px;
+}
+
+.submit_btn {
+  background: linear-gradient(87deg, #11cdef, #1171ef);
+  color: #fff;
+  border: none;
+}
+
+.close_btn {
+  cursor: pointer;
+}

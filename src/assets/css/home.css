@@ -1,0 +1,44 @@
+._home {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background: linear-gradient(87deg, #11cdef, #1171ef); */
+  background: url(./../img/bg.jpg);
+  background-size: cover;
+  backdrop-filter: blur(8px);
+}
+
+.user-ac {
+  font-size: 12px;
+}
+
+.user-ac span {
+  cursor: pointer;
+  text-decoration: underline;
+  margin-left: 3px;
+}
+
+.user-ac span:hover {
+  color: rgb(90, 90, 225);
+}
+
+/* .login-modal { */
+/* filter: blur(8px) !important; */
+/* background: #000 !important;
+} */
+
+/* .modal {
+  background-color: none !important;
+  backdrop-filter: blur(10px);
+}
+
+.modal-backdrop {
+  background-color: rgba(0, 0, 0, 0)  !important;
+} */
+
+.home-search-input {
+  outline: none;
+  border: 2px solid rgb(216, 216, 216);
+}
